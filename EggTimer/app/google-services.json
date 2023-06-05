@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "893406978092",
+    "project_id": "fcm-notifications-3a325",
+    "storage_bucket": "fcm-notifications-3a325.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:893406978092:android:5c2d0fd70c8729297cf189",
+        "android_client_info": {
+          "package_name": "com.kryptopass.eggtimer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "893406978092-dg2vhmsleumnedqgtk5hcg6mqrdcfqdo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw7JgbN3-fO6EE5V6qzWzjlJdbjx-A8Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "893406978092-dg2vhmsleumnedqgtk5hcg6mqrdcfqdo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
